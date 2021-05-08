@@ -1,0 +1,39 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:MY FIFO
+state: pause
+current: 1
+time: 119.318000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:INSTRUMENTAL/Sounds Of Love/Mora-Piya_(webmusic.in).mp3
+1:Bangla/Bengali Songs (New)/Belal Khan/Ami Chai Jare By Upoma - Belal Khan - Shomeswar Oli - JK Majlish - New Music Video 2018 - YouTube.mp3
+2:Bangla/Bengali Songs (New)/Belal Khan/Belal Khan - Liza - Mon Obhidhan - মন অভিধান - Bengali Song - 2019 - YouTube.mp3
+3:Bangla/Bengali Songs (New)/Oporadhi_320-(Mr-Jat.in).mp3
+4:Bangla/Bengali Songs (New)/Aaj Amaye (Full) - Jeet Gannguli, Anwesha Datta Gupta.mp3
+5:Bangla/Bengali Songs (New)/Dishahin-Chokhe-Khuje-(webmusic.in).mp3
+6:Bangla/Bengali Songs (New)/Mon_(webmusic.cc).mp3
+7:Bangla/Bengali Songs (New)/Bhalolaage Tomake.mp3
+8:Bangla/Bengali Songs (New)/Pagla Hawar Badol Dine  remix -(Mr-Jatt.com).mp3
+9:Bangla/Bengali Songs (New)/Oporadhi - Boys vs Girls 320Kbps(WebCool.In).mp3
+10:Wynk Music/Acoustic Fusion Bliss by Raghav Sachar - Audio Jukebox - HD Songs - YouTube.MKV
+11:INSTRUMENTAL/NEW SONGS INS/Baarish_-_Instrumental_(Yaariyan)(MyMp3Song.Com).mp3
+12:INSTRUMENTAL/NEW SONGS INS/Baaton Ko Teri - Instrumental Song(MyMp3Song.Com).mp3
+13:INSTRUMENTAL/NEW SONGS INS/Chittiyaan_Kalaiyaan_-_Instrumetal_Song(MyMp3Song.Com).mp3
+14:INSTRUMENTAL/NEW SONGS INS/Dil Cheez Tujhe Dedi - Instrumental Song(MyMp3Song.Com).mp3
+15:Wynk Music/08 - Sochta Hun Uska Dil(MyMp3Song.Com).mp3
+16:Wynk Music/Hamqadam-Shrey_Singhal-www.Mp3Mad.Com.mp3
+17:Wynk Music/Sayonee-(HdMaza9.Com).mp3
+18:Bangla/Buker Maje Tui, Buker Maje Tui songs, Bengali Album Buker Maje Tui 2016. Saavn.com Bengali Songs Online_2.mp3
+19:SONGS/SONGS BY A/(webmusic.in)_Pyar-Itna-Na-Kar.mp3
+20:SONGS/SONGS BY A/Yun-Hi_(webmusic.in).mp3
+21:SONGS/SONGS BY A/(webmusic.in)_TERE-BIN-EK-PAL.mp3
+22:SONGS/SONGS BY A/Aankhon-Mein-Tum-Ho_(webmusic.in).mp3
+23:SONGS/SONGS BY A/Dil-Rasiyaye_(webmusic.in).mp3
+playlist_end
