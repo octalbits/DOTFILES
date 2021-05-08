@@ -21,5 +21,5 @@ Type=XSession
 # See fstab(5) for details.
 
 # <file system> <dir> <type> <options> <dump> <pass>
-/dev/sda1	/home/spandan/HDD ntfs-3g rw,user,exec,sync,nofail 0 0
+/dev/sda1	~/HDD ntfs-3g rw,user,exec,sync,nofail 0 0
 ```
